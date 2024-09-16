@@ -8,7 +8,12 @@ Am sa incerc sa completez semestru 1 pana pe 30 septembrie
 
 ### Ed- C + Ti
 
-To do the lab
+Examen:
+Aveti toate subiectele rezolvate pe alocuri mai exista greseli sa verificati ,in general daca ramane tot Stratulat vor fi aceleasi.
+
+Lab:
+Aveti dosarul acolo va spune si omul de la lab ce aveti de pus.
+Recomand pe Gusita.
 
 ### SDA - C + Ti
 
@@ -16,7 +21,7 @@ TO do the lab
 
 ### RC - C + Ti
 
-Not started
+Adaugat monentan niste poze -not done yet.
 
 ### AC - C + Ti
 
@@ -27,11 +32,19 @@ Adaugat pana acum teste de la Vladu intreaba pt restul
 Can add more -not done yet
 
 ### TS - C
+Examen:
+Aveti subiectul integral rezolvat din anul 2023 cel din 2024 a fost similar doar cu alte numere.
 
-almost done : has to be checked
+Lab:
+O sa faceti 4 lucrari de laborator am atasat deja materialele
+Recomand sa faceti labul cu SZEDLAK .
 
 ### APD - Ti
-Ask C.A.
+Examen:
+Aveti subiectele de anul trecut .
+
+Lab:
+O sa aveti toate materiale pe campus.
 
 ## Semestru 2 - to do
 
