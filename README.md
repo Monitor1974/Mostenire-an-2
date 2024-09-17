@@ -17,7 +17,10 @@ Recomand pe Gusita.
 
 ### SDA - C + Ti
 
-TO do the lab
+Aveti tot ce va trebuie 
+
+- 5 teste la laborator si 5 aplicatii am avut
+- 3 probleme si grila la examen
 
 ### RC - C + Ti
 
@@ -29,7 +32,7 @@ Adaugat pana acum teste de la Vladu intreaba pt restul
 
 ### POO - C + Ti
 
-Can add more -not done yet
+Aveti tot ce va trebuie.
 
 ### TS - C
 Examen:
@@ -48,11 +51,7 @@ O sa aveti toate materiale pe campus.
 
 ## Semestru 2 - to do
 
-### CN - C + Ti
-### PAA - C + Ti
-### FIS - C + Ti
-### SO - C + Ti
-### BD - C + Ti
+O sa aveti link spre un alt githubam considerat ca dimensiunea este deja mare.
 
 # Ps: 
 Daca doriti sa ma contactati pentru modificari/ adaugari de documente puteti sa o faceti pe reddit la username - ul: Monitor1974
