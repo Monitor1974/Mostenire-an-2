@@ -3,7 +3,7 @@ Ghid cu materiale pentru anul 2 C + Ti.
 La fiecare materie va scrie unde a fost facuta si daca este comuna sau nu.
 
 
-Am sa incerc sa completez semestru 1 pana pe 30 septembrie
+
 ## Semestru 1
 
 ### Ed- C + Ti
@@ -29,6 +29,8 @@ Adaugat monentan niste poze -not done yet.
 ### AC - C + Ti
 
 Adaugat pana acum teste de la Vladu intreaba pt restul
+
+Aveti acum si subiecte ac cititi pozele in ordine inversara a punerii lor
 
 ### POO - C + Ti
 
